@@ -6,7 +6,7 @@
 
 ## UML Diagram
 
-<img width="901" height="827" alt="UML" src="https://github.com/user-attachments/assets/bfb1729a-64ed-4773-9213-e4455681e12e" />
+<img width="901" height="827" alt="UML" src="https://github.com/user-attachments/assets/b67771c7-6239-4724-9997-281a399d1a12" />
 
 ## Setup
 ```cmd
